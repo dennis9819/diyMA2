@@ -1,0 +1,3337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<export version="E">
+  <design>
+    <source>C:\Users\DG\Desktop\diyMA\Schematics\Command-Section\CMD_Board.kicad_sch</source>
+    <date>9/10/2023 5:42:29 PM</date>
+    <tool>Eeschema 7.0.5</tool>
+    <sheet number="1" name="/" tstamps="/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>CMD_Board.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+    <sheet number="2" name="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/">
+      <title_block>
+        <title/>
+        <company/>
+        <rev/>
+        <date/>
+        <source>matrix.kicad_sch</source>
+        <comment number="1" value=""/>
+        <comment number="2" value=""/>
+        <comment number="3" value=""/>
+        <comment number="4" value=""/>
+        <comment number="5" value=""/>
+        <comment number="6" value=""/>
+        <comment number="7" value=""/>
+        <comment number="8" value=""/>
+        <comment number="9" value=""/>
+      </title_block>
+    </sheet>
+  </design>
+  <components>
+    <comp ref="C1">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>94c8565b-7d9c-46b9-b2f8-73c8542425cc</tstamps>
+    </comp>
+    <comp ref="C2">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>336917a2-6144-4688-9b59-5c5023dac022</tstamps>
+    </comp>
+    <comp ref="C3">
+      <value>33pF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>ec5ff9d6-9ee2-4c02-9dc7-74b6eb446cc3</tstamps>
+    </comp>
+    <comp ref="C4">
+      <value>33pF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7a98501c-e9df-4db9-a139-15c5b7e6f33c</tstamps>
+    </comp>
+    <comp ref="C5">
+      <value>100nF</value>
+      <footprint>Capacitor_THT:C_Rect_L7.0mm_W2.0mm_P5.00mm</footprint>
+      <libsource lib="Device" part="C_Small" description="Unpolarized capacitor, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Unpolarized capacitor, small symbol"/>
+      <property name="ki_keywords" value="capacitor cap"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3cd5ea97-1b14-42a6-9e46-6793c7877187</tstamps>
+    </comp>
+    <comp ref="C6">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>04cfd037-ecde-48cb-b609-9c5d0fdb955a</tstamps>
+    </comp>
+    <comp ref="C7">
+      <value>100uF</value>
+      <footprint>Capacitor_THT:CP_Radial_D8.0mm_P2.50mm</footprint>
+      <libsource lib="Device" part="C_Polarized" description="Polarized capacitor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Polarized capacitor"/>
+      <property name="ki_keywords" value="cap capacitor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d959bc76-02a5-403c-8607-f685566f7728</tstamps>
+    </comp>
+    <comp ref="D1">
+      <value>3V6</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dc9c7eda-3e16-4ff9-aefb-fe42d334fbcb</tstamps>
+    </comp>
+    <comp ref="D18">
+      <value>3V6</value>
+      <footprint>Diode_THT:D_DO-35_SOD27_P10.16mm_Horizontal</footprint>
+      <libsource lib="Device" part="D_Zener" description="Zener diode"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Zener diode"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f841dc70-315d-48a6-b9ac-7eae3d90585d</tstamps>
+    </comp>
+    <comp ref="H1">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8ada0092-0ba5-476b-93b8-6ae0db6478e6</tstamps>
+    </comp>
+    <comp ref="H2">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>165a8d59-db7c-455b-a822-c194b8892552</tstamps>
+    </comp>
+    <comp ref="H3">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>8fca5637-7ab6-40b1-9270-647b6a2e4b61</tstamps>
+    </comp>
+    <comp ref="H4">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>36281523-02ca-4145-829b-333263411415</tstamps>
+    </comp>
+    <comp ref="H5">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>9006a80b-4f84-4765-b2a3-be0036095257</tstamps>
+    </comp>
+    <comp ref="H6">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>13c8385a-e590-4c48-b34f-bf78fe60d3d2</tstamps>
+    </comp>
+    <comp ref="H7">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>f154edaa-a51a-4d3a-8934-fdf3a12de897</tstamps>
+    </comp>
+    <comp ref="H8">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>a225c57d-9e8c-45b5-89a7-07e5ef74fe0b</tstamps>
+    </comp>
+    <comp ref="H9">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>892ce45b-01af-4244-8807-bab1eea8896b</tstamps>
+    </comp>
+    <comp ref="H10">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7bb08e5f-6539-4292-bafa-d3aac0e4bef2</tstamps>
+    </comp>
+    <comp ref="H11">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>da174aa0-12fc-4f35-b3dc-7e8caa3040e5</tstamps>
+    </comp>
+    <comp ref="H12">
+      <value>MountingHole</value>
+      <footprint>MountingHole:MountingHole_3.2mm_M3_DIN965_Pad</footprint>
+      <libsource lib="Mechanical" part="MountingHole_Pad" description="Mounting Hole with connection"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Mounting Hole with connection"/>
+      <property name="ki_keywords" value="mounting hole"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>1fa2658f-e980-4706-b573-1b0448282bde</tstamps>
+    </comp>
+    <comp ref="J1">
+      <value>USB_B</value>
+      <footprint>Connector_USB:USB_B_Lumberg_2411_02_Horizontal</footprint>
+      <datasheet> ~</datasheet>
+      <libsource lib="Connector" part="USB_B" description="USB Type B connector"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="USB Type B connector"/>
+      <property name="ki_keywords" value="connector USB"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>658c1f71-78cf-4efb-adea-24d7270dc021</tstamps>
+    </comp>
+    <comp ref="J2">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>caab79ba-c533-4b2c-a150-c938a0dd492c</tstamps>
+    </comp>
+    <comp ref="J3">
+      <value>Conn_01x04_Male</value>
+      <footprint>Connector_JST:JST_EH_B4B-EH-A_1x04_P2.50mm_Vertical</footprint>
+      <libsource lib="Connector" part="Conn_01x04_Male" description="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>128f8f26-9233-4bdc-9f0d-d3d0a977bd9e</tstamps>
+    </comp>
+    <comp ref="J4">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Latch_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>46d3459e-c694-417f-996c-e5ecc3dd993a</tstamps>
+    </comp>
+    <comp ref="J5">
+      <value>Conn_02x05_Odd_Even</value>
+      <footprint>Connector_IDC:IDC-Header_2x05_P2.54mm_Latch_Vertical</footprint>
+      <libsource lib="Connector_Generic" part="Conn_02x05_Odd_Even" description="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"/>
+      <property name="ki_keywords" value="connector"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>4adec224-4deb-43fc-9303-70b120de6bc1</tstamps>
+    </comp>
+    <comp ref="JP1">
+      <value>Jumper_2_Bridged</value>
+      <footprint>Jumper:SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm</footprint>
+      <libsource lib="Jumper" part="Jumper_2_Bridged" description="Jumper, 2-pole, closed/bridged"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Jumper, 2-pole, closed/bridged"/>
+      <property name="ki_keywords" value="Jumper SPST"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>cbaed491-42da-43d1-a832-0bc5e44e3c5d</tstamps>
+    </comp>
+    <comp ref="R1">
+      <value>2k2</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>3ba96a36-c37b-4297-b8dd-0261e172da3d</tstamps>
+    </comp>
+    <comp ref="R2">
+      <value>68</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>97a612ce-3ccd-403c-b567-fc7806d98bb6</tstamps>
+    </comp>
+    <comp ref="R3">
+      <value>68</value>
+      <footprint>Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d26983a6-e2bc-4e28-b7c5-04d7e0a154d0</tstamps>
+    </comp>
+    <comp ref="R4">
+      <value>10k</value>
+      <footprint>Resistor_THT:R_Axial_DIN0204_L3.6mm_D1.6mm_P2.54mm_Vertical</footprint>
+      <libsource lib="Device" part="R" description="Resistor"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Resistor"/>
+      <property name="ki_keywords" value="R res resistor"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>c78a1c8a-7cbd-426d-8f96-ea08df5be542</tstamps>
+    </comp>
+    <comp ref="RN1">
+      <value>R_Network08</value>
+      <footprint>Resistor_THT:R_Array_SIP9</footprint>
+      <datasheet>http://www.vishay.com/docs/31509/csc.pdf</datasheet>
+      <libsource lib="Device" part="R_Network08" description="8 resistor network, star topology, bussed resistors, small symbol"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="8 resistor network, star topology, bussed resistors, small symbol"/>
+      <property name="ki_keywords" value="R network star-topology"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>7776e735-f75f-4800-bd05-7165ed158e16</tstamps>
+    </comp>
+    <comp ref="RV1">
+      <value>10K LIN</value>
+      <footprint>w_conn_av:RS60N12-LIN10K</footprint>
+      <libsource lib="Device" part="R_Potentiometer" description="Potentiometer"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Potentiometer"/>
+      <property name="ki_keywords" value="resistor variable"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>dbe2716b-5fdc-4690-a29e-5157028a7dec</tstamps>
+    </comp>
+    <comp ref="U1">
+      <value>74HC595</value>
+      <footprint>Package_DIP:DIP-16_W7.62mm_Socket_LongPads</footprint>
+      <datasheet>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</datasheet>
+      <libsource lib="74xx" part="74HC595" description="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="8-bit serial in/out Shift Register 3-State Outputs"/>
+      <property name="ki_keywords" value="HCMOS SR 3State"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>e9330e82-3335-4fc3-a242-d89d0db18003</tstamps>
+    </comp>
+    <comp ref="U2">
+      <value>L7805</value>
+      <footprint>Package_TO_SOT_THT:TO-220-3_Horizontal_TabDown</footprint>
+      <datasheet>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</datasheet>
+      <libsource lib="Regulator_Linear" part="L7805" description="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252"/>
+      <property name="ki_keywords" value="Voltage Regulator 1.5A Positive"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>d36acacc-ded9-46c5-9f80-c2964f78d2ec</tstamps>
+    </comp>
+    <comp ref="U3">
+      <value>ATmega8-16P</value>
+      <footprint>Package_DIP:DIP-28_W7.62mm_LongPads</footprint>
+      <datasheet>http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf</datasheet>
+      <libsource lib="MCU_Microchip_ATmega" part="ATmega8-16P" description="16MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="16MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28"/>
+      <property name="ki_keywords" value="AVR 8bit Microcontroller MegaAVR"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>2a65520b-7c12-491e-a2fe-5373145fc972</tstamps>
+    </comp>
+    <comp ref="Y1">
+      <value>16MHz</value>
+      <footprint>Crystal:Crystal_HC18-U_Vertical</footprint>
+      <libsource lib="Device" part="Crystal" description="Two pin crystal"/>
+      <property name="Sheetname" value=""/>
+      <property name="Sheetfile" value="CMD_Board.kicad_sch"/>
+      <property name="ki_description" value="Two pin crystal"/>
+      <property name="ki_keywords" value="quartz ceramic resonator oscillator"/>
+      <sheetpath names="/" tstamps="/"/>
+      <tstamps>32334c33-19a9-423a-a602-b85971c7764e</tstamps>
+    </comp>
+    <comp ref="D2">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c37d4737-a4e0-4aca-be0c-015233f3e28d</tstamps>
+    </comp>
+    <comp ref="D3">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c249c3ce-20cd-4822-b4c6-1bd80ae8a18b</tstamps>
+    </comp>
+    <comp ref="D4">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3c3f6f80-21d9-470b-a127-0ffc889a8624</tstamps>
+    </comp>
+    <comp ref="D5">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c46a33b2-ec52-447b-9950-bb7a021b7422</tstamps>
+    </comp>
+    <comp ref="D6">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>fabc5a16-e767-4ab8-be01-8b1769de614e</tstamps>
+    </comp>
+    <comp ref="D7">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>8b8f3dce-10b1-4c47-b733-f467680d9b17</tstamps>
+    </comp>
+    <comp ref="D8">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ea54c124-b52d-492a-bf9b-15af7fdd574e</tstamps>
+    </comp>
+    <comp ref="D9">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>7b50f0b0-2f53-40ee-88db-486e413d7af1</tstamps>
+    </comp>
+    <comp ref="D10">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>98854940-3d0b-420d-b91e-78e7b73654ad</tstamps>
+    </comp>
+    <comp ref="D11">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>16bdf557-b2b5-4c93-9dff-017f121dcb4e</tstamps>
+    </comp>
+    <comp ref="D12">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>974dc5f0-3500-4950-b40e-1dcd627496a2</tstamps>
+    </comp>
+    <comp ref="D13">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>1e2ea48e-c907-4299-8879-90157a676425</tstamps>
+    </comp>
+    <comp ref="D14">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>e73bdd32-31f0-4065-94ae-182c98ab6711</tstamps>
+    </comp>
+    <comp ref="D15">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>645bed74-3419-4675-9552-742abfda0f00</tstamps>
+    </comp>
+    <comp ref="D16">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>45707f2a-e88b-4701-aee2-c2c481bc2502</tstamps>
+    </comp>
+    <comp ref="D17">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2b88c51c-edd8-4077-80ad-0a1185806994</tstamps>
+    </comp>
+    <comp ref="D19">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>49f58fec-9edd-4e10-85a1-d3184b3a3d4f</tstamps>
+    </comp>
+    <comp ref="D20">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>8898645b-eae3-441b-aaee-03194dc1a369</tstamps>
+    </comp>
+    <comp ref="D21">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2779c542-b21a-44bb-8ca2-f3817516439e</tstamps>
+    </comp>
+    <comp ref="D22">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>48d8ba33-4ec5-4842-a704-3ac29dbb2273</tstamps>
+    </comp>
+    <comp ref="D23">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ec72bdc3-8b93-4e8b-a59d-4599e176d60e</tstamps>
+    </comp>
+    <comp ref="D24">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>09c2c2fc-7328-4061-bf5a-37e7912dffee</tstamps>
+    </comp>
+    <comp ref="D25">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b6088e8d-b486-40ac-8e4a-c83af42f56e4</tstamps>
+    </comp>
+    <comp ref="D26">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>09770d37-71db-4662-a227-4097dfd6cdab</tstamps>
+    </comp>
+    <comp ref="D27">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ab64576b-de0e-432d-9430-6e184a19e030</tstamps>
+    </comp>
+    <comp ref="D28">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>d117cfae-feb6-4380-a4a2-0476dd9fc2ef</tstamps>
+    </comp>
+    <comp ref="D29">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a18c9224-5ba2-45fc-beb8-c0fde3aa9895</tstamps>
+    </comp>
+    <comp ref="D30">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>7d8672ff-8c9b-4cfe-8dbb-3ae8b2afedd8</tstamps>
+    </comp>
+    <comp ref="D31">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5384c99e-01da-46b1-9bf4-dbe9c0b7ef80</tstamps>
+    </comp>
+    <comp ref="D32">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>1893be6b-b8fe-4705-bc24-3e7bae4ef8a6</tstamps>
+    </comp>
+    <comp ref="D33">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>19682737-a350-4ae4-9413-bf89d80f4603</tstamps>
+    </comp>
+    <comp ref="D34">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f5ecc32c-3a37-44e6-af18-7f0dbebf24d1</tstamps>
+    </comp>
+    <comp ref="D35">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a7c1cb87-e6be-46d3-9b2e-dd59d5c23523</tstamps>
+    </comp>
+    <comp ref="D36">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>811485dd-76ea-4f97-b3c0-8892bc366f60</tstamps>
+    </comp>
+    <comp ref="D37">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f67b8373-acb9-4344-bd07-65522daffce3</tstamps>
+    </comp>
+    <comp ref="D38">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>bfc79540-41eb-4574-9ca2-5a58e7c8092e</tstamps>
+    </comp>
+    <comp ref="D39">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>51e81e07-3349-405e-96b9-0f1226618d19</tstamps>
+    </comp>
+    <comp ref="D40">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>42c23ab9-38d4-4a72-bfbe-d70de9f92842</tstamps>
+    </comp>
+    <comp ref="D41">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3f38df9c-a880-4886-899b-baa4c40e1760</tstamps>
+    </comp>
+    <comp ref="D42">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>42965932-584d-4145-81ff-afd137181b62</tstamps>
+    </comp>
+    <comp ref="D43">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2a470f8c-9bac-422e-82aa-01f8e20413e5</tstamps>
+    </comp>
+    <comp ref="D44">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>87a342fb-4e9f-4e58-8972-965ac8175dbf</tstamps>
+    </comp>
+    <comp ref="D45">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>6cacdbd9-49ef-431b-9e21-b5f98907e7c4</tstamps>
+    </comp>
+    <comp ref="D46">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>39b7bc24-f8a2-47ba-b1a7-d65639428e18</tstamps>
+    </comp>
+    <comp ref="D47">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b593df60-f341-4b0b-bb7c-89cad63677a3</tstamps>
+    </comp>
+    <comp ref="D48">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>71673eb5-f771-48a1-a060-1794db4cf63f</tstamps>
+    </comp>
+    <comp ref="D49">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3b3579fd-db9c-4181-9dd5-5621b53ad36e</tstamps>
+    </comp>
+    <comp ref="D50">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>79cb02c9-89b3-4d8c-8787-6643e7f9c953</tstamps>
+    </comp>
+    <comp ref="D51">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>cdcb8693-7cac-4201-924a-b72d78434480</tstamps>
+    </comp>
+    <comp ref="D52">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>99f80a62-5038-4c47-a363-1656749f1df3</tstamps>
+    </comp>
+    <comp ref="D53">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3dccf663-d86c-4ab9-8c5b-edc3fcf29c28</tstamps>
+    </comp>
+    <comp ref="D54">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2756346d-d98c-4dc0-9cad-4ff94a8bf5c1</tstamps>
+    </comp>
+    <comp ref="D55">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>686f756b-98c2-4994-a3ad-999c4a078493</tstamps>
+    </comp>
+    <comp ref="D56">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9e1fca36-faca-42df-825c-3b610a36ac0e</tstamps>
+    </comp>
+    <comp ref="D57">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>6f02ac8e-016c-4f47-b3d9-b055b14e537e</tstamps>
+    </comp>
+    <comp ref="D58">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>8827c58a-a42a-4a5b-a5e4-79a689b4cc61</tstamps>
+    </comp>
+    <comp ref="D59">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>810789de-a0eb-489e-9ccf-d849252087c4</tstamps>
+    </comp>
+    <comp ref="D60">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>6a3d3243-78fa-48c3-9dfa-8b93b4577b87</tstamps>
+    </comp>
+    <comp ref="D61">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5f8bf14c-ef60-4590-a0bc-3869edb6b245</tstamps>
+    </comp>
+    <comp ref="D62">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>574d7fa3-7eed-44e3-9c8f-b6d95d76d507</tstamps>
+    </comp>
+    <comp ref="D63">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c5a78e0c-f158-4fbe-a889-7c98ca4e9bf6</tstamps>
+    </comp>
+    <comp ref="D64">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5ae31090-b24b-48a8-bb0c-d8ea9440413a</tstamps>
+    </comp>
+    <comp ref="D65">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a7cb07e4-a2e7-453d-b6cd-e84a19a16c8a</tstamps>
+    </comp>
+    <comp ref="D66">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>16b695ac-1e95-4e41-91e0-405e9cfa7457</tstamps>
+    </comp>
+    <comp ref="D67">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5ec79921-fb65-409a-b4dd-4aec9605e3e0</tstamps>
+    </comp>
+    <comp ref="D68">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ea4d3f46-c651-4dba-89a4-2e51b8f7806e</tstamps>
+    </comp>
+    <comp ref="D69">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2aa1f258-223b-450f-b258-579d2c35e8ed</tstamps>
+    </comp>
+    <comp ref="D70">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2dc4f51f-c18e-4575-9b6b-a4bd978a9592</tstamps>
+    </comp>
+    <comp ref="D71">
+      <value>1N4001</value>
+      <footprint>Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</footprint>
+      <datasheet>http://www.vishay.com/docs/88503/1n4001.pdf</datasheet>
+      <libsource lib="Diode" part="1N4001" description="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <property name="ki_description" value="50V 1A General Purpose Rectifier Diode, DO-41"/>
+      <property name="ki_keywords" value="diode"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>378eadea-488d-47d9-845f-63b5d8cca822</tstamps>
+    </comp>
+    <comp ref="SW1">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>30fd1726-180f-4c7a-be6c-0af9d50841cd</tstamps>
+    </comp>
+    <comp ref="SW2">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3e8a6ae6-2991-4a60-a5f2-0d82299c24a5</tstamps>
+    </comp>
+    <comp ref="SW3">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5f47fa4e-51fa-48e6-b316-08880431b8e6</tstamps>
+    </comp>
+    <comp ref="SW4">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>bd6b5f42-d199-4e65-8646-3802e7b18d68</tstamps>
+    </comp>
+    <comp ref="SW5">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b2ce9a61-ffd3-49a7-86f4-7a2e8af6a4d1</tstamps>
+    </comp>
+    <comp ref="SW6">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>d8db7d96-8d11-4f0a-80f7-1d4ea204a0d5</tstamps>
+    </comp>
+    <comp ref="SW7">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5383abca-674a-40aa-bee8-829b82e7b532</tstamps>
+    </comp>
+    <comp ref="SW8">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>0942a053-2a47-4d13-acf4-57b5a82cd111</tstamps>
+    </comp>
+    <comp ref="SW9">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>e4f3ea4b-8548-461b-867e-ba5b81748be8</tstamps>
+    </comp>
+    <comp ref="SW10">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>5f6bc3ad-7d42-451f-b422-c62be99431de</tstamps>
+    </comp>
+    <comp ref="SW11">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c583d8bd-b9cf-41f5-96cb-1798014b991b</tstamps>
+    </comp>
+    <comp ref="SW12">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>df575376-38fe-44f1-aec1-874c49345cbc</tstamps>
+    </comp>
+    <comp ref="SW13">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2cdddc4e-677c-4f35-a038-1bf3e9b0fa83</tstamps>
+    </comp>
+    <comp ref="SW14">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>cdbc3b63-1b3b-410b-a948-8fc40ab2540d</tstamps>
+    </comp>
+    <comp ref="SW15">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f0d48993-7073-47a5-bb2c-84b73c86c437</tstamps>
+    </comp>
+    <comp ref="SW16">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ed3f32d7-9dc6-4a37-8fe8-aef6ef2b7f6b</tstamps>
+    </comp>
+    <comp ref="SW17">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>95e188ef-b319-4268-aba4-3f21429b5fb9</tstamps>
+    </comp>
+    <comp ref="SW18">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>d84fd3ee-7e6a-4067-8c53-fae217e1ef9d</tstamps>
+    </comp>
+    <comp ref="SW19">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>4f8f4e5b-c949-4734-923b-fc15d8056469</tstamps>
+    </comp>
+    <comp ref="SW20">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9a593e7a-dcc0-4ce9-921f-a8a5cbe5f695</tstamps>
+    </comp>
+    <comp ref="SW21">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9830e731-977e-488c-8ebd-eb62aa82315f</tstamps>
+    </comp>
+    <comp ref="SW22">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f80b97cf-dff0-4dab-9912-a14ecfc6341d</tstamps>
+    </comp>
+    <comp ref="SW23">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b108b682-bbf7-4c42-96b9-0ce73ea2691e</tstamps>
+    </comp>
+    <comp ref="SW24">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9ba5655c-9de6-4653-91db-4b429bb36de0</tstamps>
+    </comp>
+    <comp ref="SW25">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>996a914c-d5c0-4de5-abf3-fd94eaf21dc1</tstamps>
+    </comp>
+    <comp ref="SW26">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2b76895a-bc99-4b23-a11d-0b699b082df4</tstamps>
+    </comp>
+    <comp ref="SW27">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9012c3a4-836f-42e6-8577-66806a6b5f10</tstamps>
+    </comp>
+    <comp ref="SW28">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>173e3b52-0067-40bd-b99f-9a3e9715c33c</tstamps>
+    </comp>
+    <comp ref="SW29">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>8e834462-c83b-45de-9762-8ea594d18ec8</tstamps>
+    </comp>
+    <comp ref="SW30">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ecbafb77-db7e-4c1e-a21c-6ccefa50a37d</tstamps>
+    </comp>
+    <comp ref="SW31">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>28b4293d-b9bc-4046-81dc-c1c7424ef3dc</tstamps>
+    </comp>
+    <comp ref="SW32">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>d61ea98b-0ee7-4c60-ae5b-8ef2f72e0b45</tstamps>
+    </comp>
+    <comp ref="SW33">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b5e84dd6-2f57-4ca8-8546-c039342b21bb</tstamps>
+    </comp>
+    <comp ref="SW34">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>dbef7434-e678-407e-b630-60613b356c39</tstamps>
+    </comp>
+    <comp ref="SW35">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>807e709a-c45b-40c6-9aaf-c177f22ad504</tstamps>
+    </comp>
+    <comp ref="SW36">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a4fca215-c0f4-49fd-b743-e6014df0b23e</tstamps>
+    </comp>
+    <comp ref="SW37">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>1e1c552d-0303-49be-8587-ef7bcb609095</tstamps>
+    </comp>
+    <comp ref="SW38">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>69a46157-9ff9-4052-837b-8770e2849d3a</tstamps>
+    </comp>
+    <comp ref="SW39">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>ee349631-baa9-4062-a221-74f10e9c2728</tstamps>
+    </comp>
+    <comp ref="SW40">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f44cd867-221c-42cc-bcd5-926f0f00b579</tstamps>
+    </comp>
+    <comp ref="SW41">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>952aafde-e1a0-47a9-b1d1-5b6e92878d67</tstamps>
+    </comp>
+    <comp ref="SW42">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a3631998-e532-4f49-a8f2-9624828de9f8</tstamps>
+    </comp>
+    <comp ref="SW43">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>561e312a-e6b2-4447-b814-a0ce191eacd1</tstamps>
+    </comp>
+    <comp ref="SW44">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>89a897a1-0668-4a79-a080-e1aac7a6fbe1</tstamps>
+    </comp>
+    <comp ref="SW45">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>9bc60d18-42ed-4293-a87f-a4e70d43b5c1</tstamps>
+    </comp>
+    <comp ref="SW46">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>d594d8b8-6d24-4efe-be95-1929ab5fb104</tstamps>
+    </comp>
+    <comp ref="SW47">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>021b2c18-ea2b-44c7-b359-c5840aa56168</tstamps>
+    </comp>
+    <comp ref="SW48">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>7c748de2-9540-4588-a217-b7008e509f58</tstamps>
+    </comp>
+    <comp ref="SW49">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>b7ff3da9-7842-4918-8953-02d4d40d7f9b</tstamps>
+    </comp>
+    <comp ref="SW50">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>3edcf018-81ed-498f-953a-9be0b4463259</tstamps>
+    </comp>
+    <comp ref="SW51">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>aff7b656-725d-4a36-bd1d-dfb618d9818f</tstamps>
+    </comp>
+    <comp ref="SW52">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>78e0a2b7-1554-426c-ace1-35436d22d984</tstamps>
+    </comp>
+    <comp ref="SW53">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>1b4375c6-0019-41c6-8e7d-a534ff8161cd</tstamps>
+    </comp>
+    <comp ref="SW54">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>132ba230-f8e7-45ad-b00c-44a10491d7e1</tstamps>
+    </comp>
+    <comp ref="SW55">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>1b93141a-ea8f-4bae-8ad0-92389b5c0e0f</tstamps>
+    </comp>
+    <comp ref="SW56">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>2f69b309-be03-4366-baa7-f756ce0a69fd</tstamps>
+    </comp>
+    <comp ref="SW57">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>f5c8a4cb-c61a-4939-b2c4-0ac39ed6c6f2</tstamps>
+    </comp>
+    <comp ref="SW58">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c8ccc577-7371-454b-a6e6-2c1b8cff0aa8</tstamps>
+    </comp>
+    <comp ref="SW59">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c84efc83-11f1-41e0-a9c2-fa7eb88a4706</tstamps>
+    </comp>
+    <comp ref="SW60">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>bf020d59-89d0-4cef-b02c-5db329085bc8</tstamps>
+    </comp>
+    <comp ref="SW61">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>774d0e76-af20-4326-a861-50fafaff08fe</tstamps>
+    </comp>
+    <comp ref="SW62">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>a53f4b99-09bd-4882-95d9-9ff0aa2faf1d</tstamps>
+    </comp>
+    <comp ref="SW63">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>30e0d3a3-b2bb-4241-8d01-fa830d941a9a</tstamps>
+    </comp>
+    <comp ref="SW64">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>e9f73869-d0de-4c56-88fc-6a2a95437b6a</tstamps>
+    </comp>
+    <comp ref="SW65">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>416e01b3-d490-4e69-b6b1-a0648b78cedf</tstamps>
+    </comp>
+    <comp ref="SW66">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>31b58dae-108e-4446-afc8-cf44c670ab50</tstamps>
+    </comp>
+    <comp ref="SW67">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>7dc72038-e9f8-4ac2-9a48-1d06e77d30a7</tstamps>
+    </comp>
+    <comp ref="SW68">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>c2e9dab1-fbf3-4e12-bcc1-d7b047e59384</tstamps>
+    </comp>
+    <comp ref="SW69">
+      <value>Switch_SW_DPST</value>
+      <footprint>cherrymx:SW_Cherry_MX_PCB_1.00u</footprint>
+      <libsource lib="Z8C rev3-cache" part="Switch_SW_DPST" description=""/>
+      <property name="Sheetname" value="Switch Matrix"/>
+      <property name="Sheetfile" value="matrix.kicad_sch"/>
+      <sheetpath names="/Switch Matrix/" tstamps="/8c5a408b-1fa2-4c32-aba4-7aa1052abd18/"/>
+      <tstamps>be46073d-d9e4-4a17-8147-86c8711a7e2a</tstamps>
+    </comp>
+  </components>
+  <libparts>
+    <libpart lib="74xx" part="74HC595">
+      <description>8-bit serial in/out Shift Register 3-State Outputs</description>
+      <docs>http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+        <fp>SOIC*3.9x9.9mm*P1.27mm*</fp>
+        <fp>TSSOP*4.4x5mm*P0.65mm*</fp>
+        <fp>SOIC*5.3x10.2mm*P1.27mm*</fp>
+        <fp>SOIC*7.5x10.3mm*P1.27mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">74HC595</field>
+        <field name="Datasheet">http://www.ti.com/lit/ds/symlink/sn74hc595.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="QB" type="tri_state"/>
+        <pin num="2" name="QC" type="tri_state"/>
+        <pin num="3" name="QD" type="tri_state"/>
+        <pin num="4" name="QE" type="tri_state"/>
+        <pin num="5" name="QF" type="tri_state"/>
+        <pin num="6" name="QG" type="tri_state"/>
+        <pin num="7" name="QH" type="tri_state"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="QH'" type="output"/>
+        <pin num="10" name="~{SRCLR}" type="input"/>
+        <pin num="11" name="SRCLK" type="input"/>
+        <pin num="12" name="RCLK" type="input"/>
+        <pin num="13" name="~{OE}" type="input"/>
+        <pin num="14" name="SER" type="input"/>
+        <pin num="15" name="QA" type="tri_state"/>
+        <pin num="16" name="VCC" type="power_in"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="Conn_01x04_Male">
+      <description>Generic connector, single row, 01x04, script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_1x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_01x04_Male</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector" part="USB_B">
+      <description>USB Type B connector</description>
+      <docs> ~</docs>
+      <footprints>
+        <fp>USB*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">USB_B</field>
+        <field name="Datasheet"> ~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="VBUS" type="power_out"/>
+        <pin num="2" name="D-" type="bidirectional"/>
+        <pin num="3" name="D+" type="bidirectional"/>
+        <pin num="4" name="GND" type="power_out"/>
+        <pin num="5" name="Shield" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Connector_Generic" part="Conn_02x05_Odd_Even">
+      <description>Generic connector, double row, 02x05, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Connector*:*_2x??_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">J</field>
+        <field name="Value">Conn_02x05_Odd_Even</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="Pin_1" type="passive"/>
+        <pin num="2" name="Pin_2" type="passive"/>
+        <pin num="3" name="Pin_3" type="passive"/>
+        <pin num="4" name="Pin_4" type="passive"/>
+        <pin num="5" name="Pin_5" type="passive"/>
+        <pin num="6" name="Pin_6" type="passive"/>
+        <pin num="7" name="Pin_7" type="passive"/>
+        <pin num="8" name="Pin_8" type="passive"/>
+        <pin num="9" name="Pin_9" type="passive"/>
+        <pin num="10" name="Pin_10" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Polarized">
+      <description>Polarized capacitor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>CP_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Polarized</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="C_Small">
+      <description>Unpolarized capacitor, small symbol</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>C_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">C</field>
+        <field name="Value">C_Small</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="Crystal">
+      <description>Two pin crystal</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Crystal*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">Y</field>
+        <field name="Value">Crystal</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="D_Zener">
+      <description>Zener diode</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>TO-???*</fp>
+        <fp>*_Diode_*</fp>
+        <fp>*SingleDiode*</fp>
+        <fp>D_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">D_Zener</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R">
+      <description>Resistor</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>R_*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">R</field>
+        <field name="Value">R</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="" type="passive"/>
+        <pin num="2" name="" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Network08">
+      <description>8 resistor network, star topology, bussed resistors, small symbol</description>
+      <docs>http://www.vishay.com/docs/31509/csc.pdf</docs>
+      <footprints>
+        <fp>R?Array?SIP*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RN</field>
+        <field name="Value">R_Network08</field>
+        <field name="Footprint">Resistor_THT:R_Array_SIP9</field>
+        <field name="Datasheet">http://www.vishay.com/docs/31509/csc.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="common" type="passive"/>
+        <pin num="2" name="R1" type="passive"/>
+        <pin num="3" name="R2" type="passive"/>
+        <pin num="4" name="R3" type="passive"/>
+        <pin num="5" name="R4" type="passive"/>
+        <pin num="6" name="R5" type="passive"/>
+        <pin num="7" name="R6" type="passive"/>
+        <pin num="8" name="R7" type="passive"/>
+        <pin num="9" name="R8" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Device" part="R_Potentiometer">
+      <description>Potentiometer</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Potentiometer*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">RV</field>
+        <field name="Value">R_Potentiometer</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Diode" part="1N4001">
+      <description>50V 1A General Purpose Rectifier Diode, DO-41</description>
+      <docs>http://www.vishay.com/docs/88503/1n4001.pdf</docs>
+      <footprints>
+        <fp>D*DO?41*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">D</field>
+        <field name="Value">1N4001</field>
+        <field name="Footprint">Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal</field>
+        <field name="Datasheet">http://www.vishay.com/docs/88503/1n4001.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="K" type="passive"/>
+        <pin num="2" name="A" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="Jumper" part="Jumper_2_Bridged">
+      <description>Jumper, 2-pole, closed/bridged</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>Jumper*</fp>
+        <fp>TestPoint*2Pads*</fp>
+        <fp>TestPoint*Bridge*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">JP</field>
+        <field name="Value">Jumper_2_Bridged</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="A" type="passive"/>
+        <pin num="2" name="B" type="passive"/>
+      </pins>
+    </libpart>
+    <libpart lib="MCU_Microchip_ATmega" part="ATmega8-16P">
+      <description>16MHz, 8kB Flash, 1kB SRAM, 512B EEPROM, DIP-28</description>
+      <docs>http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf</docs>
+      <footprints>
+        <fp>DIP*W7.62mm*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">ATmega8-16P</field>
+        <field name="Footprint">Package_DIP:DIP-28_W7.62mm</field>
+        <field name="Datasheet">http://ww1.microchip.com/downloads/en/DeviceDoc/atmel-2486-8-bit-avr-microcontroller-atmega8_l_datasheet.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="PC6/~{RESET}" type="bidirectional"/>
+        <pin num="2" name="PD0" type="bidirectional"/>
+        <pin num="3" name="PD1" type="bidirectional"/>
+        <pin num="4" name="PD2" type="bidirectional"/>
+        <pin num="5" name="PD3" type="bidirectional"/>
+        <pin num="6" name="PD4" type="bidirectional"/>
+        <pin num="7" name="VCC" type="power_in"/>
+        <pin num="8" name="GND" type="power_in"/>
+        <pin num="9" name="PB6/XTAL1" type="bidirectional"/>
+        <pin num="10" name="PB7/XTAL2" type="bidirectional"/>
+        <pin num="11" name="PD5" type="bidirectional"/>
+        <pin num="12" name="PD6" type="bidirectional"/>
+        <pin num="13" name="PD7" type="bidirectional"/>
+        <pin num="14" name="PB0" type="bidirectional"/>
+        <pin num="15" name="PB1" type="bidirectional"/>
+        <pin num="16" name="PB2" type="bidirectional"/>
+        <pin num="17" name="PB3" type="bidirectional"/>
+        <pin num="18" name="PB4" type="bidirectional"/>
+        <pin num="19" name="PB5" type="bidirectional"/>
+        <pin num="20" name="AVCC" type="power_in"/>
+        <pin num="21" name="AREF" type="passive"/>
+        <pin num="22" name="AGND" type="power_in"/>
+        <pin num="23" name="PC0" type="bidirectional"/>
+        <pin num="24" name="PC1" type="bidirectional"/>
+        <pin num="25" name="PC2" type="bidirectional"/>
+        <pin num="26" name="PC3" type="bidirectional"/>
+        <pin num="27" name="PC4" type="bidirectional"/>
+        <pin num="28" name="PC5" type="bidirectional"/>
+      </pins>
+    </libpart>
+    <libpart lib="Mechanical" part="MountingHole_Pad">
+      <description>Mounting Hole with connection</description>
+      <docs>~</docs>
+      <footprints>
+        <fp>MountingHole*Pad*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">H</field>
+        <field name="Value">MountingHole_Pad</field>
+        <field name="Datasheet">~</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="input"/>
+      </pins>
+    </libpart>
+    <libpart lib="Regulator_Linear" part="L7805">
+      <description>Positive 1.5A 35V Linear Regulator, Fixed Output 5V, TO-220/TO-263/TO-252</description>
+      <docs>http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</docs>
+      <footprints>
+        <fp>TO?252*</fp>
+        <fp>TO?263*</fp>
+        <fp>TO?220*</fp>
+      </footprints>
+      <fields>
+        <field name="Reference">U</field>
+        <field name="Value">L7805</field>
+        <field name="Datasheet">http://www.st.com/content/ccc/resource/technical/document/datasheet/41/4f/b3/b0/12/d4/47/88/CD00000444.pdf/files/CD00000444.pdf/jcr:content/translations/en.CD00000444.pdf</field>
+      </fields>
+      <pins>
+        <pin num="1" name="IN" type="power_in"/>
+        <pin num="2" name="GND" type="power_in"/>
+        <pin num="3" name="OUT" type="power_out"/>
+      </pins>
+    </libpart>
+    <libpart lib="Z8C rev3-cache" part="Switch_SW_DPST">
+      <fields>
+        <field name="Reference">SW</field>
+        <field name="Value">Switch_SW_DPST</field>
+      </fields>
+      <pins>
+        <pin num="1" name="1" type="passive"/>
+        <pin num="2" name="2" type="passive"/>
+        <pin num="3" name="3" type="passive"/>
+        <pin num="4" name="4" type="passive"/>
+      </pins>
+    </libpart>
+  </libparts>
+  <libraries>
+    <library logical="74xx">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/74xx.kicad_sym</uri>
+    </library>
+    <library logical="Connector">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector.kicad_sym</uri>
+    </library>
+    <library logical="Connector_Generic">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Connector_Generic.kicad_sym</uri>
+    </library>
+    <library logical="Device">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Device.kicad_sym</uri>
+    </library>
+    <library logical="Diode">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Diode.kicad_sym</uri>
+    </library>
+    <library logical="Jumper">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Jumper.kicad_sym</uri>
+    </library>
+    <library logical="MCU_Microchip_ATmega">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/MCU_Microchip_ATmega.kicad_sym</uri>
+    </library>
+    <library logical="Mechanical">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Mechanical.kicad_sym</uri>
+    </library>
+    <library logical="Regulator_Linear">
+      <uri>C:\Program Files\KiCad\7.0\share\kicad\symbols\/Regulator_Linear.kicad_sym</uri>
+    </library>
+  </libraries>
+  <nets>
+    <net code="1" name="+5V">
+      <node ref="C1" pin="1" pintype="passive"/>
+      <node ref="C2" pin="1" pintype="passive"/>
+      <node ref="C7" pin="1" pintype="passive"/>
+      <node ref="J2" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J4" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J4" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="JP1" pin="1" pinfunction="A" pintype="passive"/>
+      <node ref="R4" pin="1" pintype="passive"/>
+      <node ref="U1" pin="10" pinfunction="~{SRCLR}" pintype="input"/>
+      <node ref="U1" pin="16" pinfunction="VCC" pintype="power_in"/>
+      <node ref="U3" pin="7" pinfunction="VCC" pintype="power_in"/>
+    </net>
+    <net code="2" name="+5VA">
+      <node ref="C5" pin="1" pintype="passive"/>
+      <node ref="C6" pin="1" pintype="passive"/>
+      <node ref="J5" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="JP1" pin="2" pinfunction="B" pintype="passive"/>
+      <node ref="RV1" pin="3" pinfunction="3" pintype="passive"/>
+      <node ref="U2" pin="3" pinfunction="OUT" pintype="power_out"/>
+      <node ref="U3" pin="20" pinfunction="AVCC" pintype="power_in"/>
+      <node ref="U3" pin="21" pinfunction="AREF" pintype="passive"/>
+    </net>
+    <net code="3" name="+12V">
+      <node ref="J4" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="J4" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U2" pin="1" pinfunction="IN" pintype="power_in"/>
+    </net>
+    <net code="4" name="/#USB_D+">
+      <node ref="D18" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="3" pinfunction="D+" pintype="bidirectional"/>
+      <node ref="R1" pin="1" pintype="passive"/>
+      <node ref="R2" pin="1" pintype="passive"/>
+    </net>
+    <net code="5" name="/#USB_D-">
+      <node ref="D1" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J1" pin="2" pinfunction="D-" pintype="bidirectional"/>
+      <node ref="R3" pin="1" pintype="passive"/>
+    </net>
+    <net code="6" name="ANALOG_1">
+      <node ref="RV1" pin="2" pinfunction="2" pintype="passive"/>
+      <node ref="U3" pin="23" pinfunction="PC0" pintype="bidirectional"/>
+    </net>
+    <net code="7" name="ANALOG_2">
+      <node ref="J5" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="U3" pin="24" pinfunction="PC1" pintype="bidirectional"/>
+    </net>
+    <net code="8" name="ANALOG_3">
+      <node ref="U3" pin="25" pinfunction="PC2" pintype="bidirectional"/>
+    </net>
+    <net code="9" name="ANALOG_4">
+      <node ref="U3" pin="26" pinfunction="PC3" pintype="bidirectional"/>
+    </net>
+    <net code="10" name="GND">
+      <node ref="C1" pin="2" pintype="passive"/>
+      <node ref="C2" pin="2" pintype="passive"/>
+      <node ref="C3" pin="1" pintype="passive"/>
+      <node ref="C4" pin="1" pintype="passive"/>
+      <node ref="C5" pin="2" pintype="passive"/>
+      <node ref="C6" pin="2" pintype="passive"/>
+      <node ref="C7" pin="2" pintype="passive"/>
+      <node ref="D1" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="D18" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="H1" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H10" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H11" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H12" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H2" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H3" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H4" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H5" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H6" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H7" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H8" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="H9" pin="1" pinfunction="1" pintype="input"/>
+      <node ref="J1" pin="4" pinfunction="GND" pintype="power_out"/>
+      <node ref="J1" pin="5" pinfunction="Shield" pintype="passive"/>
+      <node ref="J2" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J2" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J2" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J2" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J3" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="J4" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="J4" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="J4" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="J4" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="J5" pin="10" pinfunction="Pin_10" pintype="passive"/>
+      <node ref="RN1" pin="1" pinfunction="common" pintype="passive"/>
+      <node ref="RV1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="13" pinfunction="~{OE}" pintype="input"/>
+      <node ref="U1" pin="8" pinfunction="GND" pintype="power_in"/>
+      <node ref="U2" pin="2" pinfunction="GND" pintype="power_in"/>
+      <node ref="U3" pin="22" pinfunction="AGND" pintype="power_in"/>
+      <node ref="U3" pin="8" pinfunction="GND" pintype="power_in"/>
+    </net>
+    <net code="11" name="ICSP_MISO">
+      <node ref="D14" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D23" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D31" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D39" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D47" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D55" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D6" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D63" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D68" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="RN1" pin="5" pinfunction="R4" pintype="passive"/>
+      <node ref="U3" pin="18" pinfunction="PB4" pintype="bidirectional"/>
+    </net>
+    <net code="12" name="ICSP_MOSI">
+      <node ref="D13" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D22" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D30" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D38" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D46" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D5" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D54" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D62" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D67" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="RN1" pin="6" pinfunction="R5" pintype="passive"/>
+      <node ref="U3" pin="17" pinfunction="PB3" pintype="bidirectional"/>
+    </net>
+    <net code="13" name="ICSP_SCK">
+      <node ref="D15" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D24" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D32" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D40" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D48" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D56" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D69" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D7" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J2" pin="7" pinfunction="Pin_7" pintype="passive"/>
+      <node ref="J5" pin="6" pinfunction="Pin_6" pintype="passive"/>
+      <node ref="RN1" pin="4" pinfunction="R3" pintype="passive"/>
+      <node ref="U3" pin="19" pinfunction="PB5" pintype="bidirectional"/>
+    </net>
+    <net code="14" name="MATRIX_1">
+      <node ref="D10" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D19" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D2" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D27" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D35" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D43" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D51" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D59" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D64" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="9" pinfunction="R8" pintype="passive"/>
+      <node ref="U3" pin="14" pinfunction="PB0" pintype="bidirectional"/>
+    </net>
+    <net code="15" name="MATRIX_2">
+      <node ref="D11" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D20" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D28" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D3" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D36" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D44" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D52" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D60" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D65" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="8" pinfunction="R7" pintype="passive"/>
+      <node ref="U3" pin="15" pinfunction="PB1" pintype="bidirectional"/>
+    </net>
+    <net code="16" name="MATRIX_3">
+      <node ref="D12" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D21" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D29" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D37" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D4" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D45" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D53" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D61" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D66" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="RN1" pin="7" pinfunction="R6" pintype="passive"/>
+      <node ref="U3" pin="16" pinfunction="PB2" pintype="bidirectional"/>
+    </net>
+    <net code="17" name="MATRIX_7">
+      <node ref="D16" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D25" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D33" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D41" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D49" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D57" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D70" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D8" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="8" pinfunction="Pin_8" pintype="passive"/>
+      <node ref="RN1" pin="3" pinfunction="R2" pintype="passive"/>
+      <node ref="U3" pin="12" pinfunction="PD6" pintype="bidirectional"/>
+    </net>
+    <net code="18" name="MATRIX_8">
+      <node ref="D17" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D26" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D34" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D42" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D50" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D58" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D71" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="D9" pin="1" pinfunction="K" pintype="passive"/>
+      <node ref="J5" pin="9" pinfunction="Pin_9" pintype="passive"/>
+      <node ref="RN1" pin="2" pinfunction="R1" pintype="passive"/>
+      <node ref="U3" pin="13" pinfunction="PD7" pintype="bidirectional"/>
+    </net>
+    <net code="19" name="MATRIX_A">
+      <node ref="SW1" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW2" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW3" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW4" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW5" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW6" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW7" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW8" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="15" pinfunction="QA" pintype="tri_state"/>
+    </net>
+    <net code="20" name="MATRIX_B">
+      <node ref="SW17" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW18" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW19" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW20" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW21" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW22" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW23" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW24" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="1" pinfunction="QB" pintype="tri_state"/>
+    </net>
+    <net code="21" name="MATRIX_C">
+      <node ref="SW41" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW42" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW43" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW44" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW45" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW46" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW47" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW48" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="2" pinfunction="QC" pintype="tri_state"/>
+    </net>
+    <net code="22" name="MATRIX_D">
+      <node ref="SW49" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW50" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW51" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW52" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW53" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW54" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW55" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW56" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="3" pinfunction="QD" pintype="tri_state"/>
+    </net>
+    <net code="23" name="MATRIX_E">
+      <node ref="SW10" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW11" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW12" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW13" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW14" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW15" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW16" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW9" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="4" pinfunction="QE" pintype="tri_state"/>
+    </net>
+    <net code="24" name="MATRIX_F">
+      <node ref="SW25" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW26" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW27" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW28" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW29" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW30" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW31" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW32" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="5" pinfunction="QF" pintype="tri_state"/>
+    </net>
+    <net code="25" name="MATRIX_G">
+      <node ref="SW33" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW34" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW35" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW36" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW37" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW38" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW39" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW40" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="6" pinfunction="QG" pintype="tri_state"/>
+    </net>
+    <net code="26" name="MATRIX_H">
+      <node ref="SW62" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW63" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW64" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW65" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW66" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW67" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW68" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW69" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="7" pinfunction="QH" pintype="tri_state"/>
+    </net>
+    <net code="27" name="MATRIX_I">
+      <node ref="J5" pin="4" pinfunction="Pin_4" pintype="passive"/>
+      <node ref="SW57" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW58" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW59" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW60" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="SW61" pin="1" pinfunction="1" pintype="passive"/>
+      <node ref="U1" pin="9" pinfunction="QH'" pintype="output"/>
+    </net>
+    <net code="28" name="Net-(D2-A)">
+      <node ref="D2" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="29" name="Net-(D3-A)">
+      <node ref="D3" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW2" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="30" name="Net-(D4-A)">
+      <node ref="D4" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW3" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="31" name="Net-(D5-A)">
+      <node ref="D5" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW4" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="32" name="Net-(D6-A)">
+      <node ref="D6" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW5" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="33" name="Net-(D7-A)">
+      <node ref="D7" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW6" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="34" name="Net-(D8-A)">
+      <node ref="D8" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW7" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="35" name="Net-(D9-A)">
+      <node ref="D9" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW8" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="36" name="Net-(D10-A)">
+      <node ref="D10" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW9" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="37" name="Net-(D11-A)">
+      <node ref="D11" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW10" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="38" name="Net-(D12-A)">
+      <node ref="D12" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW11" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="39" name="Net-(D13-A)">
+      <node ref="D13" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW12" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="40" name="Net-(D14-A)">
+      <node ref="D14" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW13" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="41" name="Net-(D15-A)">
+      <node ref="D15" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW14" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="42" name="Net-(D16-A)">
+      <node ref="D16" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW15" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="43" name="Net-(D17-A)">
+      <node ref="D17" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW16" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="44" name="Net-(D19-A)">
+      <node ref="D19" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW17" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="45" name="Net-(D20-A)">
+      <node ref="D20" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW18" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="46" name="Net-(D21-A)">
+      <node ref="D21" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW19" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="47" name="Net-(D22-A)">
+      <node ref="D22" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW20" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="48" name="Net-(D23-A)">
+      <node ref="D23" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW21" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="49" name="Net-(D24-A)">
+      <node ref="D24" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW22" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="50" name="Net-(D25-A)">
+      <node ref="D25" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW23" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="51" name="Net-(D26-A)">
+      <node ref="D26" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW24" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="52" name="Net-(D27-A)">
+      <node ref="D27" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW25" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="53" name="Net-(D28-A)">
+      <node ref="D28" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW26" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="54" name="Net-(D29-A)">
+      <node ref="D29" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW27" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="55" name="Net-(D30-A)">
+      <node ref="D30" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW28" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="56" name="Net-(D31-A)">
+      <node ref="D31" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW29" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="57" name="Net-(D32-A)">
+      <node ref="D32" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW30" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="58" name="Net-(D33-A)">
+      <node ref="D33" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW31" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="59" name="Net-(D34-A)">
+      <node ref="D34" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW32" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="60" name="Net-(D35-A)">
+      <node ref="D35" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW33" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="61" name="Net-(D36-A)">
+      <node ref="D36" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW34" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="62" name="Net-(D37-A)">
+      <node ref="D37" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW35" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="63" name="Net-(D38-A)">
+      <node ref="D38" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW36" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="64" name="Net-(D39-A)">
+      <node ref="D39" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW37" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="65" name="Net-(D40-A)">
+      <node ref="D40" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW38" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="66" name="Net-(D41-A)">
+      <node ref="D41" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW39" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="67" name="Net-(D42-A)">
+      <node ref="D42" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW40" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="68" name="Net-(D43-A)">
+      <node ref="D43" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW41" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="69" name="Net-(D44-A)">
+      <node ref="D44" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW42" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="70" name="Net-(D45-A)">
+      <node ref="D45" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW43" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="71" name="Net-(D46-A)">
+      <node ref="D46" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW44" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="72" name="Net-(D47-A)">
+      <node ref="D47" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW45" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="73" name="Net-(D48-A)">
+      <node ref="D48" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW46" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="74" name="Net-(D49-A)">
+      <node ref="D49" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW47" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="75" name="Net-(D50-A)">
+      <node ref="D50" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW48" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="76" name="Net-(D51-A)">
+      <node ref="D51" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW49" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="77" name="Net-(D52-A)">
+      <node ref="D52" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW50" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="78" name="Net-(D53-A)">
+      <node ref="D53" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW51" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="79" name="Net-(D54-A)">
+      <node ref="D54" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW52" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="80" name="Net-(D55-A)">
+      <node ref="D55" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW53" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="81" name="Net-(D56-A)">
+      <node ref="D56" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW54" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="82" name="Net-(D57-A)">
+      <node ref="D57" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW55" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="83" name="Net-(D58-A)">
+      <node ref="D58" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW56" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="84" name="Net-(D59-A)">
+      <node ref="D59" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW57" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="85" name="Net-(D60-A)">
+      <node ref="D60" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW58" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="86" name="Net-(D61-A)">
+      <node ref="D61" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW59" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="87" name="Net-(D62-A)">
+      <node ref="D62" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW60" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="88" name="Net-(D63-A)">
+      <node ref="D63" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW61" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="89" name="Net-(D64-A)">
+      <node ref="D64" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW62" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="90" name="Net-(D65-A)">
+      <node ref="D65" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW63" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="91" name="Net-(D66-A)">
+      <node ref="D66" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW64" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="92" name="Net-(D67-A)">
+      <node ref="D67" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW65" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="93" name="Net-(D68-A)">
+      <node ref="D68" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW66" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="94" name="Net-(D69-A)">
+      <node ref="D69" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW67" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="95" name="Net-(D70-A)">
+      <node ref="D70" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW68" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="96" name="Net-(D71-A)">
+      <node ref="D71" pin="2" pinfunction="A" pintype="passive"/>
+      <node ref="SW69" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="97" name="Net-(U3-PB6{slash}XTAL1)">
+      <node ref="C3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="9" pinfunction="PB6/XTAL1" pintype="bidirectional"/>
+      <node ref="Y1" pin="2" pinfunction="2" pintype="passive"/>
+    </net>
+    <net code="98" name="Net-(U3-PB7{slash}XTAL2)">
+      <node ref="C4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="10" pinfunction="PB7/XTAL2" pintype="bidirectional"/>
+      <node ref="Y1" pin="1" pinfunction="1" pintype="passive"/>
+    </net>
+    <net code="99" name="RS232_RX">
+      <node ref="J3" pin="1" pinfunction="Pin_1" pintype="passive"/>
+      <node ref="U3" pin="2" pinfunction="PD0" pintype="bidirectional"/>
+    </net>
+    <net code="100" name="RS232_TX">
+      <node ref="J3" pin="3" pinfunction="Pin_3" pintype="passive"/>
+      <node ref="U3" pin="3" pinfunction="PD1" pintype="bidirectional"/>
+    </net>
+    <net code="101" name="SER_CLK">
+      <node ref="U1" pin="11" pinfunction="SRCLK" pintype="input"/>
+      <node ref="U3" pin="11" pinfunction="PD5" pintype="bidirectional"/>
+    </net>
+    <net code="102" name="SER_DATA">
+      <node ref="U1" pin="14" pinfunction="SER" pintype="input"/>
+      <node ref="U3" pin="28" pinfunction="PC5" pintype="bidirectional"/>
+    </net>
+    <net code="103" name="SER_LATCH">
+      <node ref="U1" pin="12" pinfunction="RCLK" pintype="input"/>
+      <node ref="U3" pin="27" pinfunction="PC4" pintype="bidirectional"/>
+    </net>
+    <net code="104" name="USB_D+">
+      <node ref="R2" pin="2" pintype="passive"/>
+      <node ref="U3" pin="4" pinfunction="PD2" pintype="bidirectional"/>
+    </net>
+    <net code="105" name="USB_D-">
+      <node ref="R3" pin="2" pintype="passive"/>
+      <node ref="U3" pin="5" pinfunction="PD3" pintype="bidirectional"/>
+    </net>
+    <net code="106" name="USB_INT">
+      <node ref="R1" pin="2" pintype="passive"/>
+      <node ref="U3" pin="6" pinfunction="PD4" pintype="bidirectional"/>
+    </net>
+    <net code="107" name="unconnected-(J1-VBUS-Pad1)">
+      <node ref="J1" pin="1" pinfunction="VBUS" pintype="power_out"/>
+    </net>
+    <net code="108" name="unconnected-(J2-Pin_3-Pad3)">
+      <node ref="J2" pin="3" pinfunction="Pin_3" pintype="passive+no_connect"/>
+    </net>
+    <net code="109" name="unconnected-(J5-Pin_3-Pad3)">
+      <node ref="J5" pin="3" pinfunction="Pin_3" pintype="passive"/>
+    </net>
+    <net code="110" name="unconnected-(J5-Pin_5-Pad5)">
+      <node ref="J5" pin="5" pinfunction="Pin_5" pintype="passive"/>
+    </net>
+    <net code="111" name="unconnected-(J5-Pin_7-Pad7)">
+      <node ref="J5" pin="7" pinfunction="Pin_7" pintype="passive"/>
+    </net>
+    <net code="112" name="unconnected-(SW1-Pad3)">
+      <node ref="SW1" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="113" name="unconnected-(SW1-Pad4)">
+      <node ref="SW1" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="114" name="unconnected-(SW2-Pad3)">
+      <node ref="SW2" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="115" name="unconnected-(SW2-Pad4)">
+      <node ref="SW2" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="116" name="unconnected-(SW3-Pad3)">
+      <node ref="SW3" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="117" name="unconnected-(SW3-Pad4)">
+      <node ref="SW3" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="118" name="unconnected-(SW4-Pad3)">
+      <node ref="SW4" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="119" name="unconnected-(SW4-Pad4)">
+      <node ref="SW4" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="120" name="unconnected-(SW5-Pad3)">
+      <node ref="SW5" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="121" name="unconnected-(SW5-Pad4)">
+      <node ref="SW5" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="122" name="unconnected-(SW6-Pad3)">
+      <node ref="SW6" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="123" name="unconnected-(SW6-Pad4)">
+      <node ref="SW6" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="124" name="unconnected-(SW7-Pad3)">
+      <node ref="SW7" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="125" name="unconnected-(SW7-Pad4)">
+      <node ref="SW7" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="126" name="unconnected-(SW8-Pad3)">
+      <node ref="SW8" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="127" name="unconnected-(SW8-Pad4)">
+      <node ref="SW8" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="128" name="unconnected-(SW9-Pad3)">
+      <node ref="SW9" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="129" name="unconnected-(SW9-Pad4)">
+      <node ref="SW9" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="130" name="unconnected-(SW10-Pad3)">
+      <node ref="SW10" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="131" name="unconnected-(SW10-Pad4)">
+      <node ref="SW10" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="132" name="unconnected-(SW11-Pad3)">
+      <node ref="SW11" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="133" name="unconnected-(SW11-Pad4)">
+      <node ref="SW11" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="134" name="unconnected-(SW12-Pad3)">
+      <node ref="SW12" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="135" name="unconnected-(SW12-Pad4)">
+      <node ref="SW12" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="136" name="unconnected-(SW13-Pad3)">
+      <node ref="SW13" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="137" name="unconnected-(SW13-Pad4)">
+      <node ref="SW13" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="138" name="unconnected-(SW14-Pad3)">
+      <node ref="SW14" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="139" name="unconnected-(SW14-Pad4)">
+      <node ref="SW14" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="140" name="unconnected-(SW15-Pad3)">
+      <node ref="SW15" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="141" name="unconnected-(SW15-Pad4)">
+      <node ref="SW15" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="142" name="unconnected-(SW16-Pad3)">
+      <node ref="SW16" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="143" name="unconnected-(SW16-Pad4)">
+      <node ref="SW16" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="144" name="unconnected-(SW17-Pad3)">
+      <node ref="SW17" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="145" name="unconnected-(SW17-Pad4)">
+      <node ref="SW17" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="146" name="unconnected-(SW18-Pad3)">
+      <node ref="SW18" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="147" name="unconnected-(SW18-Pad4)">
+      <node ref="SW18" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="148" name="unconnected-(SW19-Pad3)">
+      <node ref="SW19" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="149" name="unconnected-(SW19-Pad4)">
+      <node ref="SW19" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="150" name="unconnected-(SW20-Pad3)">
+      <node ref="SW20" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="151" name="unconnected-(SW20-Pad4)">
+      <node ref="SW20" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="152" name="unconnected-(SW21-Pad3)">
+      <node ref="SW21" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="153" name="unconnected-(SW21-Pad4)">
+      <node ref="SW21" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="154" name="unconnected-(SW22-Pad3)">
+      <node ref="SW22" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="155" name="unconnected-(SW22-Pad4)">
+      <node ref="SW22" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="156" name="unconnected-(SW23-Pad3)">
+      <node ref="SW23" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="157" name="unconnected-(SW23-Pad4)">
+      <node ref="SW23" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="158" name="unconnected-(SW24-Pad3)">
+      <node ref="SW24" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="159" name="unconnected-(SW24-Pad4)">
+      <node ref="SW24" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="160" name="unconnected-(SW25-Pad3)">
+      <node ref="SW25" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="161" name="unconnected-(SW25-Pad4)">
+      <node ref="SW25" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="162" name="unconnected-(SW26-Pad3)">
+      <node ref="SW26" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="163" name="unconnected-(SW26-Pad4)">
+      <node ref="SW26" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="164" name="unconnected-(SW27-Pad3)">
+      <node ref="SW27" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="165" name="unconnected-(SW27-Pad4)">
+      <node ref="SW27" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="166" name="unconnected-(SW28-Pad3)">
+      <node ref="SW28" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="167" name="unconnected-(SW28-Pad4)">
+      <node ref="SW28" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="168" name="unconnected-(SW29-Pad3)">
+      <node ref="SW29" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="169" name="unconnected-(SW29-Pad4)">
+      <node ref="SW29" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="170" name="unconnected-(SW30-Pad3)">
+      <node ref="SW30" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="171" name="unconnected-(SW30-Pad4)">
+      <node ref="SW30" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="172" name="unconnected-(SW31-Pad3)">
+      <node ref="SW31" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="173" name="unconnected-(SW31-Pad4)">
+      <node ref="SW31" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="174" name="unconnected-(SW32-Pad3)">
+      <node ref="SW32" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="175" name="unconnected-(SW32-Pad4)">
+      <node ref="SW32" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="176" name="unconnected-(SW33-Pad3)">
+      <node ref="SW33" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="177" name="unconnected-(SW33-Pad4)">
+      <node ref="SW33" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="178" name="unconnected-(SW34-Pad3)">
+      <node ref="SW34" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="179" name="unconnected-(SW34-Pad4)">
+      <node ref="SW34" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="180" name="unconnected-(SW35-Pad3)">
+      <node ref="SW35" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="181" name="unconnected-(SW35-Pad4)">
+      <node ref="SW35" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="182" name="unconnected-(SW36-Pad3)">
+      <node ref="SW36" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="183" name="unconnected-(SW36-Pad4)">
+      <node ref="SW36" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="184" name="unconnected-(SW37-Pad3)">
+      <node ref="SW37" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="185" name="unconnected-(SW37-Pad4)">
+      <node ref="SW37" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="186" name="unconnected-(SW38-Pad3)">
+      <node ref="SW38" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="187" name="unconnected-(SW38-Pad4)">
+      <node ref="SW38" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="188" name="unconnected-(SW39-Pad3)">
+      <node ref="SW39" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="189" name="unconnected-(SW39-Pad4)">
+      <node ref="SW39" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="190" name="unconnected-(SW40-Pad3)">
+      <node ref="SW40" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="191" name="unconnected-(SW40-Pad4)">
+      <node ref="SW40" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="192" name="unconnected-(SW41-Pad3)">
+      <node ref="SW41" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="193" name="unconnected-(SW41-Pad4)">
+      <node ref="SW41" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="194" name="unconnected-(SW42-Pad3)">
+      <node ref="SW42" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="195" name="unconnected-(SW42-Pad4)">
+      <node ref="SW42" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="196" name="unconnected-(SW43-Pad3)">
+      <node ref="SW43" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="197" name="unconnected-(SW43-Pad4)">
+      <node ref="SW43" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="198" name="unconnected-(SW44-Pad3)">
+      <node ref="SW44" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="199" name="unconnected-(SW44-Pad4)">
+      <node ref="SW44" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="200" name="unconnected-(SW45-Pad3)">
+      <node ref="SW45" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="201" name="unconnected-(SW45-Pad4)">
+      <node ref="SW45" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="202" name="unconnected-(SW46-Pad3)">
+      <node ref="SW46" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="203" name="unconnected-(SW46-Pad4)">
+      <node ref="SW46" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="204" name="unconnected-(SW47-Pad3)">
+      <node ref="SW47" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="205" name="unconnected-(SW47-Pad4)">
+      <node ref="SW47" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="206" name="unconnected-(SW48-Pad3)">
+      <node ref="SW48" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="207" name="unconnected-(SW48-Pad4)">
+      <node ref="SW48" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="208" name="unconnected-(SW49-Pad3)">
+      <node ref="SW49" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="209" name="unconnected-(SW49-Pad4)">
+      <node ref="SW49" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="210" name="unconnected-(SW50-Pad3)">
+      <node ref="SW50" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="211" name="unconnected-(SW50-Pad4)">
+      <node ref="SW50" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="212" name="unconnected-(SW51-Pad3)">
+      <node ref="SW51" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="213" name="unconnected-(SW51-Pad4)">
+      <node ref="SW51" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="214" name="unconnected-(SW52-Pad3)">
+      <node ref="SW52" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="215" name="unconnected-(SW52-Pad4)">
+      <node ref="SW52" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="216" name="unconnected-(SW53-Pad3)">
+      <node ref="SW53" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="217" name="unconnected-(SW53-Pad4)">
+      <node ref="SW53" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="218" name="unconnected-(SW54-Pad3)">
+      <node ref="SW54" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="219" name="unconnected-(SW54-Pad4)">
+      <node ref="SW54" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="220" name="unconnected-(SW55-Pad3)">
+      <node ref="SW55" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="221" name="unconnected-(SW55-Pad4)">
+      <node ref="SW55" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="222" name="unconnected-(SW56-Pad3)">
+      <node ref="SW56" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="223" name="unconnected-(SW56-Pad4)">
+      <node ref="SW56" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="224" name="unconnected-(SW57-Pad3)">
+      <node ref="SW57" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="225" name="unconnected-(SW57-Pad4)">
+      <node ref="SW57" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="226" name="unconnected-(SW58-Pad3)">
+      <node ref="SW58" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="227" name="unconnected-(SW58-Pad4)">
+      <node ref="SW58" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="228" name="unconnected-(SW59-Pad3)">
+      <node ref="SW59" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="229" name="unconnected-(SW59-Pad4)">
+      <node ref="SW59" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="230" name="unconnected-(SW60-Pad3)">
+      <node ref="SW60" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="231" name="unconnected-(SW60-Pad4)">
+      <node ref="SW60" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="232" name="unconnected-(SW61-Pad3)">
+      <node ref="SW61" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="233" name="unconnected-(SW61-Pad4)">
+      <node ref="SW61" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="234" name="unconnected-(SW62-Pad3)">
+      <node ref="SW62" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="235" name="unconnected-(SW62-Pad4)">
+      <node ref="SW62" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="236" name="unconnected-(SW63-Pad3)">
+      <node ref="SW63" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="237" name="unconnected-(SW63-Pad4)">
+      <node ref="SW63" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="238" name="unconnected-(SW64-Pad3)">
+      <node ref="SW64" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="239" name="unconnected-(SW64-Pad4)">
+      <node ref="SW64" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="240" name="unconnected-(SW65-Pad3)">
+      <node ref="SW65" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="241" name="unconnected-(SW65-Pad4)">
+      <node ref="SW65" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="242" name="unconnected-(SW66-Pad3)">
+      <node ref="SW66" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="243" name="unconnected-(SW66-Pad4)">
+      <node ref="SW66" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="244" name="unconnected-(SW67-Pad3)">
+      <node ref="SW67" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="245" name="unconnected-(SW67-Pad4)">
+      <node ref="SW67" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="246" name="unconnected-(SW68-Pad3)">
+      <node ref="SW68" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="247" name="unconnected-(SW68-Pad4)">
+      <node ref="SW68" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="248" name="unconnected-(SW69-Pad3)">
+      <node ref="SW69" pin="3" pinfunction="3" pintype="passive"/>
+    </net>
+    <net code="249" name="unconnected-(SW69-Pad4)">
+      <node ref="SW69" pin="4" pinfunction="4" pintype="passive"/>
+    </net>
+    <net code="250" name="~{RESET}">
+      <node ref="J2" pin="5" pinfunction="Pin_5" pintype="passive"/>
+      <node ref="J3" pin="2" pinfunction="Pin_2" pintype="passive"/>
+      <node ref="R4" pin="2" pintype="passive"/>
+      <node ref="U3" pin="1" pinfunction="PC6/~{RESET}" pintype="bidirectional"/>
+    </net>
+  </nets>
+</export>

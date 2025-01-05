@@ -1,421 +1,148 @@
-100480006097578
-cherrymx
-SW_Cherry_MX_PCB
-Cherry MX keyswitch PCB Mount
-Cherry MX Keyboard Keyswitch Switch PCB Cutout
+35380407995743
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 2 copper strips
+net tie solder jumper bridged
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.00u
-Cherry MX keyswitch PCB Mount with 1.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged2Bar_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 2 copper strips
+net tie solder jumper bridged
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.25u
-Cherry MX keyswitch PCB Mount with 1.25u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.25u
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.25u_90deg
-Cherry MX keyswitch PCB Mount with 1.25u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.25u 90deg
+2
+Jumper
+SolderJumper-2_P1.3mm_Bridged_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, bridged with 1 copper strip
+net tie solder jumper bridged
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.50u
-Cherry MX keyswitch PCB Mount with 1.50u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.50u
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.50u_90deg
-Cherry MX keyswitch PCB Mount with 1.50u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.50u 90deg
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open
+solder jumper open
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.75u
-Cherry MX keyswitch PCB Mount with 1.75u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.75u
+2
+Jumper
+SolderJumper-2_P1.3mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
 0
-4
 2
-cherrymx
-SW_Cherry_MX_PCB_1.75u_90deg
-Cherry MX keyswitch PCB Mount with 1.75u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.75u 90deg
+2
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.00u
-Cherry MX keyswitch PCB Mount with 2.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.00u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.00u_90deg
-Cherry MX keyswitch PCB Mount with 2.00u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.00u 90deg
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.25u
-Cherry MX keyswitch PCB Mount with 2.25u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.25u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged2Bar12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 Bridged2Bar with 2 copper strip, labeled with numbers
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.25u_90deg
-Cherry MX keyswitch PCB Mount with 2.25u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.25u 90deg
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.50u
-Cherry MX keyswitch PCB Mount with 2.50u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.50u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.50u_90deg
-Cherry MX keyswitch PCB Mount with 2.50u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.50u 90deg
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.75u
-Cherry MX keyswitch PCB Mount with 2.75u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.75u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Bridged12_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, pads 1-2 bridged with 1 copper strip, labeled with numbers
+net tie solder jumper bridged
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_2.75u_90deg
-Cherry MX keyswitch PCB Mount with 2.75u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 2.75u 90deg
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm Pads, 0.3mm gap, open
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_3.00u
-Cherry MX keyswitch PCB Mount with 3.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 3.00u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_3.00u_90deg
-Cherry MX keyswitch PCB Mount with 3.00u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 3.00u 90deg
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_4.00u
-Cherry MX keyswitch PCB Mount with 4.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 4.00u
+3
+3
+Jumper
+SolderJumper-3_P1.3mm_Open_RoundedPad1.0x1.5mm_NumberLabels
+SMD Solder 3-pad Jumper, 1x1.5mm rounded Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_4.50u
-Cherry MX keyswitch PCB Mount with 4.50u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 4.50u
+3
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_5.50u
-Cherry MX keyswitch PCB Mount with 5.50u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 5.50u
+5
+3
+Jumper
+SolderJumper-3_P2.0mm_Open_TrianglePad1.0x1.5mm_NumberLabels
+SMD Solder Jumper, 1x1.5mm Triangular Pads, 0.3mm gap, open, labeled with numbers
+solder jumper open
 0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_6.00u
-Cherry MX keyswitch PCB Mount with 6.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_6.00u_Offset
-Cherry MX keyswitch PCB Mount with 6.00u Offset keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.00u Offset
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_6.25u
-Cherry MX keyswitch PCB Mount with 6.25u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.25u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_6.50u
-Cherry MX keyswitch PCB Mount with 6.50u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 6.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_7.00u
-Cherry MX keyswitch PCB Mount with 7.00u keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout 7.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_ISOEnter
-Cherry MX keyswitch PCB Mount with ISOEnter keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_ISOEnter_90deg
-Cherry MX keyswitch PCB Mount with ISOEnter 90deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_ISOEnter_180deg
-Cherry MX keyswitch PCB Mount with ISOEnter 180deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 180deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_PCB_ISOEnter_270deg
-Cherry MX keyswitch PCB Mount with ISOEnter 270deg keycap
-Cherry MX Keyboard Keyswitch Switch PCB Cutout ISOEnter 270deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate
-Cherry MX keyswitch Plate Mount
-Cherry MX Keyboard Keyswitch Switch Plate Cutout
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.00u
-Cherry MX keyswitch Plate Mount with 1.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.25u
-Cherry MX keyswitch Plate Mount with 1.25u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.25u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.25u_90deg
-Cherry MX keyswitch Plate Mount with 1.25u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.25u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.50u
-Cherry MX keyswitch Plate Mount with 1.50u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.50u_90deg
-Cherry MX keyswitch Plate Mount with 1.50u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.50u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.75u
-Cherry MX keyswitch Plate Mount with 1.75u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.75u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_1.75u_90deg
-Cherry MX keyswitch Plate Mount with 1.75u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 1.75u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.00u
-Cherry MX keyswitch Plate Mount with 2.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.00u_90deg
-Cherry MX keyswitch Plate Mount with 2.00u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.00u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.25u
-Cherry MX keyswitch Plate Mount with 2.25u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.25u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.25u_90deg
-Cherry MX keyswitch Plate Mount with 2.25u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.25u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.50u
-Cherry MX keyswitch Plate Mount with 2.50u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.50u_90deg
-Cherry MX keyswitch Plate Mount with 2.50u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.50u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.75u
-Cherry MX keyswitch Plate Mount with 2.75u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.75u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_2.75u_90deg
-Cherry MX keyswitch Plate Mount with 2.75u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 2.75u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_3.00u
-Cherry MX keyswitch Plate Mount with 3.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 3.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_3.00u_90deg
-Cherry MX keyswitch Plate Mount with 3.00u 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 3.00u 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_4.00u
-Cherry MX keyswitch Plate Mount with 4.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 4.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_4.50u
-Cherry MX keyswitch Plate Mount with 4.50u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 4.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_5.50u
-Cherry MX keyswitch Plate Mount with 5.50u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 5.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_6.00u
-Cherry MX keyswitch Plate Mount with 6.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_6.00u_Offset
-Cherry MX keyswitch Plate Mount with 6.00u Offset keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.00u Offset
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_6.25u
-Cherry MX keyswitch Plate Mount with 6.25u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.25u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_6.50u
-Cherry MX keyswitch Plate Mount with 6.50u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 6.50u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_7.00u
-Cherry MX keyswitch Plate Mount with 7.00u keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout 7.00u
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_ISOEnter
-Cherry MX keyswitch Plate Mount with ISOEnter keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_ISOEnter_90deg
-Cherry MX keyswitch Plate Mount with ISOEnter 90deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 90deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_ISOEnter_180deg
-Cherry MX keyswitch Plate Mount with ISOEnter 180deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 180deg
-0
-4
-2
-cherrymx
-SW_Cherry_MX_Plate_ISOEnter_270deg
-Cherry MX keyswitch Plate Mount with ISOEnter 270deg keycap
-Cherry MX Keyboard Keyswitch Switch Plate Cutout ISOEnter 270deg
-0
-4
-2
+5
+3
